@@ -1,2 +1,2 @@
 # Toys
-## /forPhpSchool
+장난감 코드 모음입니다.
